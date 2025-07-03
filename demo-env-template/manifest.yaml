@@ -1,0 +1,5 @@
+name: demo-env-template
+description: Environment template with Terraform
+infrastructure:
+ template_format: terraform
+ template_file: infrastructure/main.tf
